@@ -1,0 +1,3 @@
+[submodule "auto-test"]
+	path = auto-test
+	url = git@linode1.zhuidaniu.com:auto-test.git
