@@ -4,6 +4,10 @@ int add( int i, int j ) {
   return i + j;
 }
 
+int sub_num( int j, int j ) {
+  return i - j;
+}
+
 int main( int argc, char **argv[] )
 {
 	int i = 100;
